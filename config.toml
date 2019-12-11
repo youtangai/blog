@@ -2,3 +2,6 @@ baseURL = "https://youtangai.github.io/"
 languageCode = "en-us"
 title = "youtangai's blog"
 theme = "swift"
+
+[params]
+ga_analytics = "UA-154413959-1"
