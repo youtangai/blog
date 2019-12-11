@@ -1,4 +1,4 @@
-- name: "yota nagai"
-  photo: "icon.jpg"
-  url: "https://youtangai.github.io"
-  bio: "youtangai blog"
+- name: "youtangai"
+  photo: "icon"
+  url: "https://github.com/youtangai"
+  bio: "Goを利用しているLoLと百合が好きな学生"
