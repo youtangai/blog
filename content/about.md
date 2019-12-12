@@ -1,7 +1,6 @@
 ---
 author: "youtangai"
 date: 2019-12-10
-tilte: Abount Me
 image: 'introduce.jpg'
 tags: ["other"]
 ---
