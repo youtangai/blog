@@ -2,7 +2,7 @@
 author: "youtangai"
 date: 2019-12-10
 image: 'introduce.jpg'
-tags: ["other"]
+tags: ["その他"]
 ---
 
 # プロフィール
