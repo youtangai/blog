@@ -2,6 +2,59 @@ baseURL = "https://youtangai.github.io/"
 languageCode = "en-us"
 title = "youtangai's blog"
 theme = "swift"
+author = "Steve Francia"
+copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+canonifyurls = true
+paginate = 4
+# Enable syntax highlighting
+# comment on delete the following lines 11 ~ 13
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
 
 [params]
-ga_analytics = "UA-154413959-1"
+  [params.designer]
+    name = "Weru"
+    url = "https://www.linkedin.com/in/dan-weru-profile/"
+  [[params.authors]]
+    name = "youtangai" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
+    fullName = "nagai yota" # optional. If set, it will display on author card
+    bio = "Goを利用しているVtuberとLoLと百合が好きな社会人"
+    photo = "youtangai.jpg"
+    url = "https://github.com/youtangai"
+    ga_analytics = "UA-154413959-1"
+
+  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+    twitter = "@youtangai" # twitter handle e.g @weru
+  # logo = "logo.png"
+  # author = "Weru" # default author
+  # image = "placeholder-image.png" # used whenever a page image is not set
+  # blogDir = "blogFolderName" # uncomment and edit to exclude normal pages ... see issue #57
+# [params.staticman]
+#   endpoint = ""  # URL of your own API deployment (without trailing slash), default: "https://staticman-frama.herokuapp.com"
+#   gitProvider = "github"  # Either "github" or "gitlab"
+#   username = "username"  # GitHub/GitLab user name
+#   repository = "repo"  # GitHub/GitLab user name
+#   branch = "master"  # Branch holding the source code for your site, should match the `branch` parameter in `staticman.yml`
+#
+#   # If you use reCAPTCHA v2, you must also set these parameters in staticman.yml
+#   [Params.staticman.reCaptcha]
+#     siteKey = ""  # Use your own site key, you need to apply for one on Google
+#     secret  = ""  # ENCRYPT your password by going to https://<staticman-endpoint>/v3/encrypt/<your-site-secret>
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 3
+#   [[menu.main]]
+#     name = "Golang"
+#     url = "categories/golang/"
+#     weight = 4
+#   [[menu.main]]
+#     name = "Go"
+#     url = "tags/go/"
+#     weight = 5
