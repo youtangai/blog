@@ -1,8 +1,10 @@
 ---
-author: "youtangai"
 date: 2019-12-10
-image: 'introduce.jpg'
+description: "自己紹介"
+featured_image: "/images/introduce.jpg"
 tags: ["その他"]
+categorys: "About"
+title: "はじめまして"
 ---
 
 # プロフィール
