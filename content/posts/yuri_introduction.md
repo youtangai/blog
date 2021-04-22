@@ -2,7 +2,7 @@
 date: 2019-12-12T18:27:00+09:00
 featured_image: '/images/yuri_is_life.jpg'
 tags: ["百合"]
-categorys: "Blog"
+categories: "Blog"
 description: "百合は人生"
 title: "おすすめ百合作品紹介"
 ---
