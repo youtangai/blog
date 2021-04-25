@@ -1,18 +1,18 @@
 ---
-title: "ElastickBeanstalkの仕組みを調べた"
-description: "ElastickBeanstalkがどのような技術で実現されているのか調べて見ました"
+title: "ElasticBeanstalkの仕組みを調べた"
+description: "ElasticBeanstalkがどのような技術で実現されているのか調べて見ました"
 date: 2021-04-26T00:11:12+09:00
 categories: "Tech"
-tags: ["AWS", "ElastickBeanstalk"]
+tags: ["AWS", "ElasticBeanstalk"]
 ---
 
 # はじめに
-- この記事は、私が仕事で利用しているElastick BeanstalkがAWS上のどのような技術で構成されているのか知りたくて調べた結果をまとめた記事になります
+- この記事は、私が仕事で利用しているElastic BeanstalkがAWS上のどのような技術で構成されているのか知りたくて調べた結果をまとめた記事になります
   - 入社してから1年近く利用しているのですが、特に深堀りすることもなく利用していたので、ちゃんと調べようと思った次第です
 - あまり突っ込んだところまでは調べてません
 - AWSのどのリソースを利用して実現しているのかを調べています
 
-# Elastick Beanstalk(EB)とは
+# Elastic Beanstalk(EB)とは
 - [こちら](https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/Welcome.html)がEBの公式ドキュメントです。日本語版も結構しっかりしているので、こちらを読むのが良いと思います。
 - 私の認識でめっちゃ簡単に言うと、アプリケーションのプロビジョニング、ロードバランシング、スケーリング、モニタリングを自動的に行なってくれる環境を構築するサービスです
 
