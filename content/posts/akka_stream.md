@@ -1,6 +1,8 @@
 ---
 title: "Akka Streamsについて調べてみたよ"
 description: "チームでブラックボックスになっているシステムで利用されているAkka Streamsについて調べました。"
+featured_image: "/images/akka_stream.png"
+images: ["/images/akka_stream.png"]
 date: 2021-12-07T21:19:00+09:00
 categories: "Tech"
 tags: ["Akka Stream"]

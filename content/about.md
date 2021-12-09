@@ -1,7 +1,8 @@
 ---
 date: 2019-12-10
 description: "自己紹介"
-featured_image: "/images/introduce.jpg"
+featured_image: "/images/introduce.png"
+images: ["/images/introduce.png"]
 tags: ["その他"]
 categories: "About"
 title: "はじめまして"

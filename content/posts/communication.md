@@ -1,6 +1,8 @@
 ---
 title: "私が考えるコミュニケーションの技術"
 description: "私が誰かとコミュニケーションを行う際に気をつけていることを書きました。"
+featured_image: "/images/communication.png"
+images: ["/images/communication.png"]
 date: 2018-12-13T00:27:32+09:00
 categories: "About"
 tags: ["Communication"]

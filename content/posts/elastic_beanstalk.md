@@ -1,6 +1,8 @@
 ---
 title: "ElasticBeanstalkの仕組みを調べた"
 description: "ElasticBeanstalkがどのような技術で実現されているのか調べて見ました"
+featured_image: "/images/elastic_beanstalk.png"
+images: ["/images/elastic_beanstalk.png"]
 date: 2021-04-26T00:11:12+09:00
 categories: "Tech"
 tags: ["AWS", "ElasticBeanstalk"]
