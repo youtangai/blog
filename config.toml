@@ -1,6 +1,6 @@
 baseURL = "https://youtangai.github.io/"
 languageCode = "en-us"
-title = "youtangai's blog"
+title = "youtangaiのブログ"
 theme = "diary"
 copyright = "Copyright © 2019–2021, youtangai; all rights reserved."
 googleAnalytics = "UA-154413959-1"
@@ -18,7 +18,7 @@ googleAnalytics = "UA-154413959-1"
     tabWidth = 4
 
 [params]
-subtitle = "Themed by Diary."
+subtitle = "百合ときどき技術"
 enableGitalk = false
 favicon = "https://raw.githubusercontent.com/youtangai/blog/master/favicon.png"
 
@@ -26,7 +26,7 @@ favicon = "https://raw.githubusercontent.com/youtangai/blog/master/favicon.png"
 enableOpenGraph = true
 enableTwitterCards = true
 title = "youtangaiのブログ" # will set 'og:site_name'
-description = "百合のち技術"  # will set 'og:description'
+description = "百合ときどき技術"  # will set 'og:description'
 
 [taxonomies]
    tag = "tags"
