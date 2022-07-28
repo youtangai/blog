@@ -4,7 +4,7 @@ description: ""
 date: 2022-07-20T22:16:57+09:00
 categories: "Tech"
 tags: ["Go"]
-draft: true
+draft: false
 ---
 
 # 1章
